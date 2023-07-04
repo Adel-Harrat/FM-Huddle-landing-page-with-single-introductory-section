@@ -13,7 +13,7 @@ const App = () => {
       <main className="mx-10 md:mx-16">
         <header>
           <a href="#" className="mt-10 inline-block">
-            <img src={logo} alt="logo" className="w-32 md:w-52" />
+            <img src={logo} alt="logo image" className="w-32 md:w-52" />
             <span className="sr-only">Logo</span>
           </a>
         </header>
